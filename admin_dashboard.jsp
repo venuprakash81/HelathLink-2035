@@ -242,7 +242,22 @@ body{
         <p>Access medical reports and documents.</p>
         <button onclick="location.href='reportall.jsp'">Open</button>
     </div>
+    <div class="dashboard-card">
+        <h3>📄 Enter Reports</h3>
+        <p>Enter medical reports and documents.</p>
+        <button onclick="location.href='report_entry.jsp'">Open</button>
+    </div>
 
+    <div class="dashboard-card">
+        <h3>🩺 Send Salary</h3>
+        <p>Upload The Salaries To Doctors.</p>
+        <button onclick="location.href='sallll.jsp'">Open</button>
+    </div>
+    <div class="dashboard-card">
+        <h3>🩺 Entered Salary</h3>
+        <p>See Entered The Salaries To Doctors.</p>
+        <button onclick="location.href='viewallsal.jsp'">Open</button>
+    </div>
     <div class="dashboard-card">
         <h3>🩺 Vitals Entry</h3>
         <p>Record BP, temperature, pulse rate.</p>
